@@ -29,28 +29,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/turtle-head.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 760838,
-		"inputAbbreviatedPath": "\/img\/turtle-head.jpg",
-		"outputAbbreviatedPath": "\/img\/turtle-head.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/turtle-social-img-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 109943,
-		"inputAbbreviatedPath": "\/img\/turtle-social-img-1.jpg",
-		"outputAbbreviatedPath": "\/img\/turtle-social-img-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
